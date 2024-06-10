@@ -1,4 +1,4 @@
-     #**Analyzing Monthly Sales Trends and
+#**Analyzing Monthly Sales Trends and
                  Optimizing Fulfillment**
 
 This document provides a comprehensive analysis of monthly sales trends and order quantities for a
